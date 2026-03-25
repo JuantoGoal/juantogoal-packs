@@ -1,6 +1,17 @@
 {
+  "version": 1,
   "packs": [
-    "https://raw.githubusercontent.com/JuantoGoal/juantogoal-packs/main/pack_rules_v2.json"
-    "https://raw.githubusercontent.com/JuantoGoal/juantogoal-packs/main/pack_funny_v2.json"
+    {
+      "id": "rules_core",
+      "url": "https://raw.githubusercontent.com/JuantoGoal/juantogoal-packs/main/pack_rules_v2.json",
+      "weight": 3,
+      "enabled": true
+    },
+    {
+      "id": "funny_mix",
+      "url": "https://raw.githubusercontent.com/JuantoGoal/juantogoal-packs/main/pack_funny_v2.json",
+      "weight": 2,
+      "enabled": true
+    }
   ]
 }
