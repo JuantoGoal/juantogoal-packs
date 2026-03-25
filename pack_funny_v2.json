@@ -1,0 +1,181 @@
+{
+  "version": 1,
+  "items": [
+    {
+      "id": "funny_v2_001",
+      "type": "funny",
+      "text": "Si un perro entra al campo y se lleva el balón, el juego debería detenerse.",
+      "correct": "REAL"
+    },
+    {
+      "id": "funny_v2_002",
+      "type": "funny",
+      "text": "Si un portero toma el balón con la mano fuera del área, todo sigue normal.",
+      "correct": "FAKE"
+    },
+    {
+      "id": "funny_v2_003",
+      "type": "funny",
+      "text": "Un árbitro puede parar el juego si hay una interferencia extraña en el campo.",
+      "correct": "REAL"
+    },
+    {
+      "id": "funny_v2_004",
+      "type": "funny",
+      "text": "Un equipo con camiseta a rayas tiene ventaja automática sobre uno con camiseta lisa.",
+      "correct": "FAKE"
+    },
+    {
+      "id": "funny_v2_005",
+      "type": "funny",
+      "text": "Si el balón pierde presión en pleno partido, se puede cambiar.",
+      "correct": "REAL"
+    },
+    {
+      "id": "funny_v2_006",
+      "type": "funny",
+      "text": "Si un remate pega en el palo, vale medio gol.",
+      "correct": "FAKE"
+    },
+    {
+      "id": "funny_v2_007",
+      "type": "funny",
+      "text": "Un partido puede frenarse unos segundos si entra un animal al campo.",
+      "correct": "REAL"
+    },
+    {
+      "id": "funny_v2_008",
+      "type": "funny",
+      "text": "Un equipo puede pedir una portería más grande si va perdiendo.",
+      "correct": "FAKE"
+    },
+    {
+      "id": "funny_v2_009",
+      "type": "funny",
+      "text": "Si el balón cruza toda la línea de gol, hay gol aunque entre rozando.",
+      "correct": "REAL"
+    },
+    {
+      "id": "funny_v2_010",
+      "type": "funny",
+      "text": "Un jugador puede celebrar antes de rematar y el gol vale igual por confianza.",
+      "correct": "FAKE"
+    },
+    {
+      "id": "funny_v2_011",
+      "type": "trivia",
+      "text": "¿Qué campo se usa normalmente en fútbol profesional?",
+      "options": ["Arena", "Césped", "Tierra suelta", "Grava"],
+      "correct": "Césped"
+    },
+    {
+      "id": "funny_v2_012",
+      "type": "trivia",
+      "text": "¿Qué es más difícil: marcar desde media cancha o desde el área chica?",
+      "options": [
+        "Desde media cancha",
+        "Desde el área chica",
+        "Es igual",
+        "Depende del césped"
+      ],
+      "correct": "Desde media cancha"
+    },
+    {
+      "id": "funny_v2_013",
+      "type": "trivia",
+      "text": "Si el portero usa las manos fuera del área, ¿es normal para su posición?",
+      "options": ["Sí", "No", "Solo si va ganando", "Solo con lluvia"],
+      "correct": "No"
+    },
+    {
+      "id": "funny_v2_014",
+      "type": "trivia",
+      "text": "¿Qué suele ser más seguro en salida: pase simple o inventar uno imposible?",
+      "options": [
+        "Pase simple",
+        "El imposible",
+        "Da igual",
+        "El más largo siempre"
+      ],
+      "correct": "Pase simple"
+    },
+    {
+      "id": "funny_v2_015",
+      "type": "trivia",
+      "text": "¿Qué suele ayudar más a un equipo ordenado?",
+      "options": [
+        "Hablar y coordinar",
+        "Callarse siempre",
+        "Correr sin mirar",
+        "Cambiar de arco"
+      ],
+      "correct": "Hablar y coordinar"
+    },
+    {
+      "id": "funny_v2_016",
+      "type": "comparison",
+      "left": "Parar el juego si entra un perro",
+      "right": "Seguir aunque se lleve el balón",
+      "correct": "Parar el juego si entra un perro"
+    },
+    {
+      "id": "funny_v2_017",
+      "type": "comparison",
+      "left": "Marcar desde el área chica",
+      "right": "Marcar desde media cancha",
+      "correct": "Marcar desde el área chica"
+    },
+    {
+      "id": "funny_v2_018",
+      "type": "comparison",
+      "left": "Jugar en césped",
+      "right": "Jugar en arena",
+      "correct": "Jugar en césped"
+    },
+    {
+      "id": "funny_v2_019",
+      "type": "comparison",
+      "left": "Pase simple y claro",
+      "right": "Tacón imposible siempre",
+      "correct": "Pase simple y claro"
+    },
+    {
+      "id": "funny_v2_020",
+      "type": "comparison",
+      "left": "Ordenarse al defender",
+      "right": "Correr todos al mismo lado",
+      "correct": "Ordenarse al defender"
+    },
+    {
+      "id": "funny_v2_021",
+      "type": "funny",
+      "text": "Si dos jugadores del mismo equipo chocan entre sí, el partido puede seguir.",
+      "correct": "REAL"
+    },
+    {
+      "id": "funny_v2_022",
+      "type": "funny",
+      "text": "Un equipo puede sacar un saque de banda con el pie si lo hace rápido.",
+      "correct": "FAKE"
+    },
+    {
+      "id": "funny_v2_023",
+      "type": "trivia",
+      "text": "¿Qué suele hacer un equipo si quiere conservar mejor la pelota?",
+      "options": [
+        "Dar apoyos",
+        "Abrirse menos",
+        "Pegarle sin mirar",
+        "Saltarse el medio"
+      ],
+      "correct": "Dar apoyos"
+    },
+    {
+      "id": "funny_v2_024",
+      "type": "comparison",
+      "left": "Dar línea de pase",
+      "right": "Esconderse del balón",
+      "correct": "Dar línea de pase"
+    }
+  ]
+}
