@@ -1,0 +1,200 @@
+    {
+  "version": 1,
+  "items": [
+    {
+      "id": "rules_trivia021",
+      "type": "trivia",
+      "text": "¿Cuántos cambios se hacen normalmente por la línea lateral?",
+      "options": ["0", "1", "2", "3"],
+      "correct": "1"
+    },
+    {
+      "id": "rules_trivia022",
+      "type": "trivia",
+      "text": "¿Qué equipo defiende su portería en cada mitad?",
+      "options": ["Siempre el mismo", "Va cambiando", "El árbitro decide", "El público decide"],
+      "correct": "Va cambiando"
+    },
+    {
+      "id": "rules_trivia023",
+      "type": "trivia",
+      "text": "¿Qué suele hacer un portero tras atrapar el balón con seguridad?",
+      "options": ["Pedir córner", "Reiniciar la jugada", "Cambiar la portería", "Salir del campo"],
+      "correct": "Reiniciar la jugada"
+    },
+    {
+      "id": "rules_trivia024",
+      "type": "trivia",
+      "text": "¿Qué se necesita para que haya gol?",
+      "options": ["Que toque el poste", "Que cruce toda la línea", "Que bote dos veces", "Que lo celebre el delantero"],
+      "correct": "Que cruce toda la línea"
+    },
+    {
+      "id": "rules_trivia025",
+      "type": "trivia",
+      "text": "¿Qué suele indicar el árbitro al añadir tiempo?",
+      "options": ["Minutos extra", "Número de goles", "Cambios restantes", "Saques de esquina"],
+      "correct": "Minutos extra"
+    },
+    {
+      "id": "rules_trivia026",
+      "type": "trivia",
+      "text": "¿Dónde se coloca el balón para un saque inicial?",
+      "options": ["En la esquina", "En el punto central", "En el área", "En la banda"],
+      "correct": "En el punto central"
+    },
+    {
+      "id": "rules_trivia027",
+      "type": "trivia",
+      "text": "¿Qué reanuda el juego desde una esquina?",
+      "options": ["Saque de meta", "Córner", "Penalti", "Bote neutral"],
+      "correct": "Córner"
+    },
+    {
+      "id": "rules_trivia028",
+      "type": "trivia",
+      "text": "¿Qué suele hacer un defensa para alejar peligro?",
+      "options": ["Celebrar", "Despejar", "Pedir tiempo muerto", "Cambiar de camiseta"],
+      "correct": "Despejar"
+    },
+    {
+      "id": "rules_trivia029",
+      "type": "trivia",
+      "text": "¿Qué parte del cuerpo sí puede usar un jugador de campo?",
+      "options": ["La mano", "El brazo", "La cabeza", "La palma"],
+      "correct": "La cabeza"
+    },
+    {
+      "id": "rules_trivia030",
+      "type": "trivia",
+      "text": "¿Qué suele buscar un equipo al tener posesión larga?",
+      "options": ["Perder el balón", "Mover al rival", "Parar el partido", "Cambiar al árbitro"],
+      "correct": "Mover al rival"
+    },
+    {
+      "id": "rules_trivia031",
+      "type": "trivia",
+      "text": "¿Qué suele hacer un delantero antes de rematar?",
+      "options": ["Desmarcarse", "Sacar de banda", "Pedir cambio", "Ir al banquillo"],
+      "correct": "Desmarcarse"
+    },
+    {
+      "id": "rules_trivia032",
+      "type": "trivia",
+      "text": "¿Qué suele intentar un equipo tras recuperar arriba?",
+      "options": ["Atacar rápido", "Pararse del todo", "Cambiar de portero", "Esperar al descanso"],
+      "correct": "Atacar rápido"
+    },
+    {
+      "id": "rules_trivia033",
+      "type": "trivia",
+      "text": "¿Qué suele hacer un lateral cerca de banda?",
+      "options": ["Abrir el campo", "Ir siempre al centro", "Salir del terreno", "Pedir penalti"],
+      "correct": "Abrir el campo"
+    },
+    {
+      "id": "rules_trivia034",
+      "type": "trivia",
+      "text": "¿Qué intenta hacer un medio al recibir entre líneas?",
+      "options": ["Girar o filtrar", "Ir al córner", "Parar el juego", "Salir del campo"],
+      "correct": "Girar o filtrar"
+    },
+    {
+      "id": "rules_trivia035",
+      "type": "trivia",
+      "text": "¿Qué suele hacer un equipo cuando va ganando al final?",
+      "options": ["Gestionar mejor el ritmo", "Quitar la portería", "Tirar dos balones", "Jugar sin portero siempre"],
+      "correct": "Gestionar mejor el ritmo"
+    },
+    {
+      "id": "rules_cmp021",
+      "type": "comparison",
+      "left": "Abrirse para dar pase",
+      "right": "Esconderse detrás del rival",
+      "correct": "Abrirse para dar pase"
+    },
+    {
+      "id": "rules_cmp022",
+      "type": "comparison",
+      "left": "Temporizar en defensa",
+      "right": "Entrar sin medir",
+      "correct": "Temporizar en defensa"
+    },
+    {
+      "id": "rules_cmp023",
+      "type": "comparison",
+      "left": "Primer toque al espacio",
+      "right": "Primer toque hacia rivales",
+      "correct": "Primer toque al espacio"
+    },
+    {
+      "id": "rules_cmp024",
+      "type": "comparison",
+      "left": "Cambiar orientación rápido",
+      "right": "Forzar siempre por dentro",
+      "correct": "Cambiar orientación rápido"
+    },
+    {
+      "id": "rules_cmp025",
+      "type": "comparison",
+      "left": "Perfilarse para recibir",
+      "right": "Recibir totalmente plano",
+      "correct": "Perfilarse para recibir"
+    },
+    {
+      "id": "rules_cmp026",
+      "type": "comparison",
+      "left": "Asegurar un pase simple",
+      "right": "Inventar siempre el difícil",
+      "correct": "Asegurar un pase simple"
+    },
+    {
+      "id": "rules_funny021",
+      "type": "funny",
+      "text": "El barro frenó tanto el balón que parecía quedarse clavado.",
+      "correct": "REAL"
+    },
+    {
+      "id": "rules_funny022",
+      "type": "funny",
+      "text": "Un árbitro dejó repetir un penalti porque el remate fue demasiado fuerte.",
+      "correct": "FAKE"
+    },
+    {
+      "id": "rules_funny023",
+      "type": "funny",
+      "text": "Se cambió el balón porque había quedado demasiado desinflado.",
+      "correct": "REAL"
+    },
+    {
+      "id": "rules_funny024",
+      "type": "funny",
+      "text": "Un equipo pidió jugar el segundo tiempo con una portería más ancha.",
+      "correct": "FAKE"
+    },
+    {
+      "id": "rules_funny025",
+      "type": "funny",
+      "text": "Una bota salió volando mientras un jugador intentaba despejar.",
+      "correct": "REAL"
+    },
+    {
+      "id": "rules_funny026",
+      "type": "funny",
+      "text": "El árbitro permitió sacar un penalti desde dos pasos más atrás por comodidad.",
+      "correct": "FAKE"
+    },
+    {
+      "id": "rules_mini021",
+      "type": "minigame",
+      "text": "Gol o No Gol",
+      "correct": "GOL"
+    },
+    {
+      "id": "rules_mini022",
+      "type": "minigame",
+      "text": "Gol o No Gol",
+      "correct": "NO_GOL"
+    }
+  ]
+}
