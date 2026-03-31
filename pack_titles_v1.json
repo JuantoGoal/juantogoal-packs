@@ -1,1 +1,75 @@
-
+{
+  "version": 1,
+  "items": [
+    {
+      "id": "titles_001",
+      "type": "trivia",
+      "text": "¿Qué club tiene más títulos de Champions League?",
+      "options": ["Real Madrid", "Barcelona", "Bayern", "Liverpool"],
+      "correct": "Real Madrid"
+    },
+    {
+      "id": "titles_002",
+      "type": "trivia",
+      "text": "¿Qué selección tiene más Copas América?",
+      "options": ["Brasil", "Argentina", "Uruguay", "Chile"],
+      "correct": "Uruguay"
+    },
+    {
+      "id": "titles_003",
+      "type": "trivia",
+      "text": "¿Qué país ganó más Eurocopas?",
+      "options": ["España", "Alemania", "Italia", "Francia"],
+      "correct": "España"
+    },
+    {
+      "id": "titles_004",
+      "type": "trivia",
+      "text": "¿Qué club inglés tiene más Champions League?",
+      "options": ["Manchester United", "Chelsea", "Liverpool", "Arsenal"],
+      "correct": "Liverpool"
+    },
+    {
+      "id": "titles_005",
+      "type": "trivia",
+      "text": "¿Qué selección ganó más Mundiales después de Brasil?",
+      "options": ["Alemania", "Italia", "Argentina", "Francia"],
+      "correct": "Alemania"
+    },
+    {
+      "id": "titles_006",
+      "type": "trivia",
+      "text": "¿Qué club ganó más ligas en España?",
+      "options": ["Barcelona", "Real Madrid", "Atlético", "Valencia"],
+      "correct": "Real Madrid"
+    },
+    {
+      "id": "titles_007",
+      "type": "trivia",
+      "text": "¿Qué club italiano tiene más títulos de liga?",
+      "options": ["Inter", "Milan", "Juventus", "Roma"],
+      "correct": "Juventus"
+    },
+    {
+      "id": "titles_008",
+      "type": "trivia",
+      "text": "¿Qué selección ganó la Copa América 2021?",
+      "options": ["Brasil", "Argentina", "Chile", "Colombia"],
+      "correct": "Argentina"
+    },
+    {
+      "id": "titles_009",
+      "type": "trivia",
+      "text": "¿Qué selección ganó la Eurocopa 2016?",
+      "options": ["Francia", "Portugal", "España", "Alemania"],
+      "correct": "Portugal"
+    },
+    {
+      "id": "titles_010",
+      "type": "trivia",
+      "text": "¿Qué club alemán tiene más títulos de liga?",
+      "options": ["Dortmund", "Bayern", "Leipzig", "Schalke"],
+      "correct": "Bayern"
+    }
+  ]
+}
