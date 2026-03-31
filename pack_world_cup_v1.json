@@ -1,1 +1,75 @@
-
+{
+  "version": 1,
+  "items": [
+    {
+      "id": "wc_001",
+      "type": "trivia",
+      "text": "¿Quién ganó el Mundial de 1990?",
+      "options": ["Alemania", "Argentina", "Italia", "Brasil"],
+      "correct": "Alemania"
+    },
+    {
+      "id": "wc_002",
+      "type": "trivia",
+      "text": "¿Quién ganó el Mundial de 1998?",
+      "options": ["Brasil", "Francia", "Italia", "Alemania"],
+      "correct": "Francia"
+    },
+    {
+      "id": "wc_003",
+      "type": "trivia",
+      "text": "¿Quién ganó el Mundial de 2010?",
+      "options": ["España", "Países Bajos", "Alemania", "Brasil"],
+      "correct": "España"
+    },
+    {
+      "id": "wc_004",
+      "type": "trivia",
+      "text": "¿Qué selección tiene más Mundiales ganados?",
+      "options": ["Alemania", "Brasil", "Italia", "Argentina"],
+      "correct": "Brasil"
+    },
+    {
+      "id": "wc_005",
+      "type": "trivia",
+      "text": "¿Quién fue subcampeón en el Mundial de 2014?",
+      "options": ["Argentina", "Brasil", "España", "Países Bajos"],
+      "correct": "Argentina"
+    },
+    {
+      "id": "wc_006",
+      "type": "trivia",
+      "text": "¿Dónde se jugó el Mundial de 2018?",
+      "options": ["Rusia", "Brasil", "Qatar", "Sudáfrica"],
+      "correct": "Rusia"
+    },
+    {
+      "id": "wc_007",
+      "type": "trivia",
+      "text": "¿Quién ganó el Mundial de 2022?",
+      "options": ["Francia", "Argentina", "Brasil", "Croacia"],
+      "correct": "Argentina"
+    },
+    {
+      "id": "wc_008",
+      "type": "trivia",
+      "text": "¿Cuántos Mundiales ha ganado Alemania?",
+      "options": ["3", "4", "5", "2"],
+      "correct": "4"
+    },
+    {
+      "id": "wc_009",
+      "type": "trivia",
+      "text": "¿Qué selección ganó el primer Mundial en 1930?",
+      "options": ["Argentina", "Brasil", "Uruguay", "Italia"],
+      "correct": "Uruguay"
+    },
+    {
+      "id": "wc_010",
+      "type": "trivia",
+      "text": "¿Quién fue campeón del Mundial de 2006?",
+      "options": ["Francia", "Italia", "Alemania", "Brasil"],
+      "correct": "Italia"
+    }
+  ]
+}
