@@ -12,6 +12,18 @@
       "url": "https://raw.githubusercontent.com/JuantoGoal/juantogoal-packs/main/pack_funny_v2.json",
       "weight": 2,
       "enabled": true
+    },
+    {
+      "id": "world_cup_history",
+      "url": "https://raw.githubusercontent.com/JuantoGoal/juantogoal-packs/main/pack_world_cup_v1.json",
+      "weight": 3,
+      "enabled": true
+    },
+    {
+      "id": "titles_history",
+      "url": "https://raw.githubusercontent.com/JuantoGoal/juantogoal-packs/main/pack_titles_v1.json",
+      "weight": 2,
+      "enabled": true
     }
   ]
 }
